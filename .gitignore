@@ -121,4 +121,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+nvidia-machine-learning-repo-ubuntu2004_1.0.0-1_amd64.deb
 

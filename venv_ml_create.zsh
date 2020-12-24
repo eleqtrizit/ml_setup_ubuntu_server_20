@@ -27,6 +27,7 @@ $python_version -m virtualenv -p $python_version $env_name
 
 cat << EOF > requirements.txt
 testresources
+methodtools
 pandas
 plotly
 numpy
